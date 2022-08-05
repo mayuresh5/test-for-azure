@@ -1,0 +1,15 @@
+ SSLCertificateFile /etc/ssl/certs/sudisa.crt
+ SSLCertificateKeyFile /etc/ssl/private/sudisa.key
+ SSLCACertificateFile /etc/apache2/ssl.crt/sudisa.ca-bundle.crt             (3 '.crt' files went to this)
+                nano /etc/apache2/sites-available/sudisa.in.conf
+
+## openssl req -new -newkey rsa:2048 -nodes -keyout amitalliance.key -out amitalliance.csr
+
+
+
+
+amitmetaliks.com, amitmetaliks.in,  amitalliance.com
+
+
+
+https://console.cloud.google.com/storage/browser/demo-abc
